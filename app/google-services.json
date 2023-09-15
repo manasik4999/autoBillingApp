@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886177076990",
+    "firebase_url": "https://qr-barcode-scanner-demo.firebaseio.com",
+    "project_id": "qr-barcode-scanner-demo",
+    "storage_bucket": "qr-barcode-scanner-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886177076990:android:3219ccd02fca0a313477af",
+        "android_client_info": {
+          "package_name": "com.example.qrbarcodescannerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886177076990-f0mfdf17ha47skinh2p2dojg0oouqrh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrbarcodescannerdemo",
+            "certificate_hash": "cc97d0348539b0b0eb28d8c5efd798274ef1f993"
+          }
+        },
+        {
+          "client_id": "886177076990-ofpumipbci529uijb229krc3rcok08u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZ0PBoaLyjB8pxnyF0Ur2YRU9034LhAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886177076990-ofpumipbci529uijb229krc3rcok08u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
